@@ -1,0 +1,6 @@
+{
+    "watch": ["Iterator-pattern"],
+    "ext": "ts",
+    "ignore": ["Iterator-pattern/**/*.spec.ts"],
+    "exec": "ts-node ./Iterator-pattern/src/index.ts"
+}

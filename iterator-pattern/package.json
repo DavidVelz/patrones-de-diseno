@@ -1,0 +1,19 @@
+{
+    "name": "iterator-pattern",
+    "version": "0.0.1",
+    "description": "",
+    "scripts": {
+        "iterator": "nodemon --config nodemon-iterator.json"
+    },
+    "keywords": [
+        "iterator-pattern",
+        "clean-code"
+    ],
+    "author": "Johan && David",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^1.18.10",
+        "typescript": "^3.3.3333"
+    },
+    "dependencies": {}
+}

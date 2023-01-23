@@ -12,7 +12,7 @@
     "author": "Johan && David",
     "license": "MIT",
     "devDependencies": {
-        "nodemon": "^1.18.10",
+        "nodemon": "^2.0.20",
         "typescript": "^3.3.3333"
     },
     "dependencies": {}
